@@ -1,0 +1,14 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+p {
+    width: 620px;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+    border: 3px solid lightgray;
+}
